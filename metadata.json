@@ -1,0 +1,6 @@
+{
+  "name": "Sach’a Yuntas | Cocina Peruana en La Paz",
+  "description": "Descubre Sach’a Yuntas en La Paz, Bolivia. Cocina peruana, mariscos, sushi, ceviches y una experiencia gastronómica en El Bosque Boulevard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
