@@ -1,16 +1,29 @@
+import heroImg from '../assets/images/hero_seafood_platter_1791485050240.jpg';
+import cevicheImg from '../assets/images/ceviche_peruano_fresco_1791485064299.jpg';
+import seafoodImg from '../assets/images/mariscos_trucha_conchas_1791485075111.jpg';
+import causaImg from '../assets/images/causa_peruana_gourmet_1791485085787.jpg';
+import jaleaImg from '../assets/images/jalea_mariscos_crujiente_1791485095451.jpg';
+import parihuelaImg from '../assets/images/parihuela_sopa_mariscos_1791485105455.jpg';
+import sushiImg from '../assets/images/sushi_nikkei_seleccion_1791485115449.jpg';
+import piscoSourImg from '../assets/images/pisco_sour_clasico_1791485127057.jpg';
+import chichaMoradaImg from '../assets/images/chicha_morada_artesanal_1791485136931.jpg';
+import interiorImg from '../assets/images/restaurante_interior_calido_1791485148697.jpg';
+import dessertImg from '../assets/images/postre_peruano_artesanal_1791485158745.jpg';
+import lomoEmpanadasImg from '../assets/images/lomo_empanadas_mariscos_1791485171500.jpg';
+
 export const IMAGES = {
-  hero: '/src/assets/images/hero_seafood_platter_1791485050240.jpg',
-  ceviche: '/src/assets/images/ceviche_peruano_fresco_1791485064299.jpg',
-  seafood: '/src/assets/images/mariscos_trucha_conchas_1791485075111.jpg',
-  causa: '/src/assets/images/causa_peruana_gourmet_1791485085787.jpg',
-  jalea: '/src/assets/images/jalea_mariscos_crujiente_1791485095451.jpg',
-  parihuela: '/src/assets/images/parihuela_sopa_mariscos_1791485105455.jpg',
-  sushi: '/src/assets/images/sushi_nikkei_seleccion_1791485115449.jpg',
-  piscoSour: '/src/assets/images/pisco_sour_clasico_1791485127057.jpg',
-  chichaMorada: '/src/assets/images/chicha_morada_artesanal_1791485136931.jpg',
-  interior: '/src/assets/images/restaurante_interior_calido_1791485148697.jpg',
-  dessert: '/src/assets/images/postre_peruano_artesanal_1791485158745.jpg',
-  lomoEmpanadas: '/src/assets/images/lomo_empanadas_mariscos_1791485171500.jpg',
+  hero: heroImg,
+  ceviche: cevicheImg,
+  seafood: seafoodImg,
+  causa: causaImg,
+  jalea: jaleaImg,
+  parihuela: parihuelaImg,
+  sushi: sushiImg,
+  piscoSour: piscoSourImg,
+  chichaMorada: chichaMoradaImg,
+  interior: interiorImg,
+  dessert: dessertImg,
+  lomoEmpanadas: lomoEmpanadasImg,
 } as const;
 
 export const BUSINESS_INFO = {
